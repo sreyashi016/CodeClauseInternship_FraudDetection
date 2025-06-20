@@ -6,13 +6,13 @@
 
 ## 📑 Table of Contents
 
-* [📘 Project Summary](#-project-summary)
-* [📂 Dataset Details](#-dataset-details)
-* [⚙️ Workflow Summary](#️-workflow-summary)
-*  [📈 Model Performance](#️-model-performance)
-* [📈 Results Snapshot](#-results-snapshot)
-* [🛠 Tools & Libraries Used](#-tools--libraries-used)
-* [👩‍💻 Author](#-author)
+* 📘 Project Summary
+* 📂 Dataset Details
+* ⚙️ Workflow Summary
+* 📈 Model Performance
+* 📈 Results Snapshot
+* 🛠 Tools & Libraries Used
+* 👩‍💻 Author
 
 
 ---
@@ -30,8 +30,8 @@ The project includes clear steps from raw data to model predictions, making it h
 ---
 
 ## 📂 Dataset Details
-
-* **Source**: Local CSV (`credit_card_fraud_dataset.csv`)
+* **Name**:Fraud Detection Dataset
+* **Source**: Link:https://www.kaggle.com/datasets/bhadramohit/credit-card-fraud-detection
 * **Size**: \~100,000+ rows
 * **Features Include**:
 
