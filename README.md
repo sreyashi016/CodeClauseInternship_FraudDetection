@@ -31,7 +31,7 @@ The project includes clear steps from raw data to model predictions, making it h
 
 ## 📂 DATASET DETAILS
 * **Name**:Fraud Detection Dataset
-* **Source**: Link:https://www.kaggle.com/datasets/bhadramohit/credit-card-fraud-detection
+* **Source**:[Kaggle Dataset](https://www.kaggle.com/datasets/bhadramohit/credit-card-fraud-detection)
 * **Size**: \~100,000+ rows
 * **Features Include**:
 
