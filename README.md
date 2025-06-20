@@ -2,9 +2,9 @@
   <img src="FraudDetection.jpg" alt="Sentiment Analysis Output" width="600"/>
 </p>
 
-# 🔐 Credit Card Fraud Detection Using XGBoost
+# 🔐 FRAUD DETECTION~
 
-## 📑 Table of Contents
+## 📑 TABLE OF CONTENTS
 
 * 📘 Project Summary
 * 📂 Dataset Details
@@ -21,7 +21,7 @@ This project demonstrates a **practical machine learning pipeline** for detectin
 
 ---
 
-## 📘 Project Summary
+## 📘 PROJECT SUMMARY
 
 The objective of this notebook is to classify financial transactions as **fraudulent** or **non-fraudulent**. The dataset contains both numerical and categorical features, and the modeling pipeline is crafted to ensure accuracy despite a highly **imbalanced target distribution**.
 
@@ -29,7 +29,7 @@ The project includes clear steps from raw data to model predictions, making it h
 
 ---
 
-## 📂 Dataset Details
+## 📂 DATASET DETAILS
 * **Name**:Fraud Detection Dataset
 * **Source**: Link:https://www.kaggle.com/datasets/bhadramohit/credit-card-fraud-detection
 * **Size**: \~100,000+ rows
@@ -45,7 +45,7 @@ The project includes clear steps from raw data to model predictions, making it h
 
 ---
 
-## ⚙️ Workflow Summary
+## ⚙️ WORKFLOW SUMMARY
 
 ### 1. **Data Preprocessing**
 
@@ -84,14 +84,14 @@ The project includes clear steps from raw data to model predictions, making it h
   * **"Non-Fraudulent Transaction"**
 
 ---
-## 📈**Model Performance**
+## 📈 MODEL PERFORMANCE
 | Model                | Accuracy |
 |---------------------|----------|
 | XGBoost Classifier | ~92%     |
 
 ---
 
-## 📈 Results Snapshot
+## 📈 RESULTS SNAPSHOT
 
 * Model training was successful with good performance on evaluation metrics.
 * Visualization of the confusion matrix helped in understanding false positives and negatives.
@@ -99,7 +99,7 @@ The project includes clear steps from raw data to model predictions, making it h
 
 ---
 
-## 🛠 Tools & Libraries Used
+## 🛠 TOOLS AND LIBRARIES USED
 
 * **Python 3**
 * `pandas`, `numpy` – Data manipulation
@@ -110,7 +110,7 @@ The project includes clear steps from raw data to model predictions, making it h
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 AUTHOR
 
 **Sreyashi Choudhury**
 A machine learning enthusiast passionate about applying data science to solve impactful problems.
